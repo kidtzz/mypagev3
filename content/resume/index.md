@@ -66,6 +66,24 @@ Become a programming professional & Highly motivated to learn something new. int
 
 ***---- Experience Project Based as Technical Consultant -----***
 
+**PT. Hana Bank**\
+*April 2025*\
+    *Product: oracle data guard (ODG)*\
+    *Responsibility: Team Member*\
+    *Location : Hana Bank*
+
+-  Create new oracle data guard and remove old secondary node 
+
+
+**Kantor Pusat PT Pegadaian**\
+*Januari 2025*\
+    *Product: Oracle enterprise monitor (OEM)*\
+    *Responsibility: Team Member*\
+    *Location : Kantor Pusat PT Pegadaian*
+
+-   New installation oracle enterprise monitor for integraton with mysqld
+
+
 **PT. Bank Mandiri**\
 *July 2022 – Desember 2022*\
     *Product: BMC Remedy IT Service Management Suite v19.08*\
