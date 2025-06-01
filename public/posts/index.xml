@@ -11,8 +11,28 @@
     </image>
     <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Feb 2025 13:12:16 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 14:42:18 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Melihat Dunia Lebih Luas Lewat Google Maps</title>
+      <link>http://localhost:1313/posts/melihat-dunia/</link>
+      <pubDate>Sun, 01 Jun 2025 14:42:18 +0700</pubDate>
+      <guid>http://localhost:1313/posts/melihat-dunia/</guid>
+      <description>&lt;p&gt;Pernah nggak kamu buka Google Maps, lalu coba zoom out?&lt;/p&gt;
+&lt;p&gt;Awalnya kamu lihat rumahmu.
+Lalu lingkungan tempat kamu biasa bermain.
+Kemudian kotamu.
+Provinsimu.
+Pulau tempat kamu tinggal.
+Lalu&amp;hellip; seluruh Indonesia.
+Dan kalau kamu terus zoom out, kamu akan melihat Asia, benua lain, bahkan seluruh dunia.&lt;/p&gt;
+&lt;p&gt;Dan saat kamu melihat semua itu, kamu akan sadar satu hal:
+Dunia ini jauh lebih besar dari yang kamu kira.&lt;/p&gt;
+&lt;p&gt;Kita sering tumbuh di satu tempat dengan kebiasaan yang sama setiap hari.
+Sekolah di tempat yang sama, teman yang itu-itu saja, dan berpikir bahwa hidup hanya berputar di situ.
+Tapi ketika kamu membuka Google Maps dan melihat dari atas, kamu jadi sadar:
+Kamu hanya satu titik kecil dari peta dunia yang sangat luas.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Edb Cluster Setup with EFM failover manager</title>
       <link>http://localhost:1313/posts/edb-postgres-cluster-setup/</link>

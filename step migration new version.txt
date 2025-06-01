@@ -26,13 +26,13 @@
     - folder content
     - folder static
     - folder public ---skip file jgn replace
-    - mypagev3/4file disini
+    - mypagev 3/4 file disini
 
 
 pada github push:
 1. remove old remote
     rm -rf .git 
-    rm -rf .gitmodule
+    
 2. buat new repository di github
 3. setup remote
     git init
@@ -47,7 +47,7 @@ pada netlify:
 2. import new from new repository mypagev3
     build setting:
      -main
-     -hugo
+     -git submodule update --init --recursive && hugo
      -public
      -Environment variable(HUGO_VERSION, 0.80.0)
 3. klik deploy

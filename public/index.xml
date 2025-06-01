@@ -11,8 +11,22 @@
     </image>
     <generator>Hugo -- 0.147.7</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 17 Feb 2025 13:12:16 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 14:42:18 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Melihat Lebih Luas Lewat Google Maps</title>
+      <link>http://localhost:1313/posts/melihat-dunia/</link>
+      <pubDate>Sun, 01 Jun 2025 14:42:18 +0700</pubDate>
+      <guid>http://localhost:1313/posts/melihat-dunia/</guid>
+      <description>&lt;p&gt;###Melihat Lebih Luas Lewat Google Maps&lt;/p&gt;
+&lt;p&gt;Coba kamu buka Google Maps.
+Sekarang, zoom out pelan-pelan.
+Awalnya kamu lihat rumahmu, lalu lingkunganmu, kota, provinsi, negara…
+Lalu perlahan kamu sadar: dunia ini luas sekali.&lt;/p&gt;
+&lt;p&gt;Ada ribuan pulau, ratusan negara, dan miliaran manusia dengan cerita masing-masing.
+Ada yang sedang mengejar mimpi, ada yang berjuang keluar dari kemiskinan, ada yang sedang menciptakan hal besar dari nol.&lt;/p&gt;
+&lt;p&gt;Dan kamu, ada di salah satu titik kecil itu.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Edb Cluster Setup with EFM failover manager</title>
       <link>http://localhost:1313/posts/edb-postgres-cluster-setup/</link>
